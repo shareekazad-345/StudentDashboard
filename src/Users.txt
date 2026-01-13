@@ -1,0 +1,7 @@
+shareeka,1234,Student
+amal,5678,Teacher
+admin,adminpass,Admin
+amy,2003,Student
+nuh,2002,Student
+azad,az123,Admin
+Nuhai,6007,Teacher

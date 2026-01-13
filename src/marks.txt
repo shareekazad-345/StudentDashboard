@@ -1,0 +1,3 @@
+shareeka,Math=85,Science=90,English=78,ICT=88
+Amy,Math=70,Science=65,English=80,ICT=75
+amal,Math=92,Science=88,English=85,ICT=95
